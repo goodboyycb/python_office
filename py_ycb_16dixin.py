@@ -3,7 +3,14 @@
 Created on Tue Dec 25 14:58:21 2018
 
 @author: goodboyycb
+
+
+
 """
+###  1 字符串的包含，in
+## 2 os 以及 shutil 模块， os.listdir/os.rename/shutil.copy
+## 3 copy(old,new)写出文件的全路径
+
 import os
 import shutil
 m=0
